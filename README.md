@@ -1,4 +1,4 @@
-This is my attempt at Cylynx Frontend Test
+This is my attempt at a internship Frontend Test
 
 Download the git and run the following commands
 
